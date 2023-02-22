@@ -1,0 +1,9 @@
+name: pipe
+version: 0.1.0
+
+authors:
+  - Margret Riegert <margret@eowyn.net>
+
+crystal: 1.7.2
+
+license: MIT
